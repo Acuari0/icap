@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">iCAP</string>
+    <string name="minus">&lt; 5 Kg</string>
+    <string name="minus10">&lt; 10 Kg</string>
+    <string name="againminus10">IMC &lt; 10 kg</string>
+
+    <string name="biblio">
+        <h3><b>Aminas:</b></h3> \n\n
+        Fuentes-Mallozzi, D. A., Barreto-García, D. E., &amp; de los Ángeles Garza-Yado, M. (2013). Cálculo de infusiones de fármacos inotrópicos y vasoactivos en pediatría. <i>Pediatr Mex, 15</i>(2), 49-53.\n\n
+        Andropoulos, D. B. (2015). <i>Anesthesia for congenital heart disease</i>. John Wiley &amp; Sons.\n\n
+        <h3><b>Anestesia Regional:</b></h3>\n\n
+        Chu, L. F., &amp; Fuller, A. (2012). <i>Manual of clinical anesthesiology.</i> Lippincott Williams &amp; Wilkins.\n\n
+        Rebollar, R. E., Palacios, M. G., Guerrero, J. M., &amp; Morera, L. T. (2016). Bloqueos centrales en Pediatría: una revisión de la literatura actual. <i> Revista Española de Anestesiología y Reanimación</i>, 63(2), 91-100.\n\n
+        Melman E, Arenas JA, Tandazo WE. Caudal anesthesia for pediatric surgery. An easy and safe method for calculating dose requirements. Anesthesiology 1985;63:3A,463.\n\n
+        <h3><b>Hemoderivados:</b></h3>\n\n
+        Ayala Viloria, A. J., González Torres, H. J., &amp; Tarud, G. J. D. (2017). Transfusions in paediatrics. <i>Revista Salud Uninorte</i>, 33(2), 187-201.\n\n
+        Hillyer, C. D., Silberstein, L. E., Ness, P. M., Anderson, K. C., &amp; Roback, J. D. (2006). <i>Blood Banking and Transfusion Medicine E-Book: Basic Principles and Practice</i>. Elsevier Health Sciences. p.524.\n\n
+        <h3><b>Fluidoterapia:</b></h3>\n\n
+        Murat, I. (2006). 31 <i>Perioperative Fluid Therapy in Pediatrics. Perioperative Fluid Therapy</i>, 423.\n\n
+        Green, J., &amp; Lillie, J. (2017). Intravenous fluid therapy in children and young people in hospital N29. <i>Archives of Disease in Childhood-Education and Practice, 102</i>(6), 327-331.\n\n
+        <h3><b>Vía aérea:</b></h3>\n\n
+        Wheeler, M, Cote, CJ, Todres, ID. The pediatric airway. In: Cote C, Lerman J, Todres ID (Eds). A Practice of Anesthesia for Infants and Children, 5th ed. Saunders-Elsevier, Philadelphia 2013. p.237.\n\n
+        Walker, S. G. (2019). Smith’s Anesthesia for Infants and Children. <i>Anesthesia &amp; Analgesia, 128</i>(2), e19.\n\n
+        <h3><b>PALS:</b></h3>\n\n
+        De Caen, A. R., Berg, M. D., Chameides, L., Gooden, C. K., Hickey, R. W., Scott, H. F., ... &amp; Schexnayder, S. M. (2015). Part 12: pediatric advanced life support: 2015 American Heart Association guidelines update for cardiopulmonary resuscitation and emergency cardiovascular care. <i>Circulation, 132</i>(18_suppl_2), S526-S542.\n\n
+    </string>
+</resources>
